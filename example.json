@@ -1,0 +1,568 @@
+{
+    "name": "STAR WARS™ Battlefront™ II",
+    "appid": "1237950",
+    "prices": {
+        "2020-06-11 15:04:52": [
+            {
+                "Final price": 19.99,
+                "Historical Low": 19.99
+            }
+        ],
+        "2020-07-09 17:10:41": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 19.99
+            }
+        ],
+        "2020-09-03 17:09:18": [
+            {
+                "Final price": 11.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2020-09-07 17:06:53": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2020-10-29 17:01:18": [
+            {
+                "Final price": 14.79,
+                "Historical Low": 11.99
+            }
+        ],
+        "2020-11-02 18:01:13": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2020-11-25 18:05:03": [
+            {
+                "Final price": 11.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2020-12-01 19:23:01": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2020-12-07 18:20:26": [
+            {
+                "Final price": 11.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2020-12-14 18:29:12": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2020-12-22 18:14:53": [
+            {
+                "Final price": 11.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2021-01-05 19:47:06": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2021-02-11 18:09:53": [
+            {
+                "Final price": 11.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2021-02-15 19:36:50": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2021-03-11 18:06:24": [
+            {
+                "Final price": 11.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2021-03-22 17:16:10": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2021-04-29 17:14:55": [
+            {
+                "Final price": 11.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2021-05-06 17:17:20": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 11.99
+            }
+        ],
+        "2021-06-24 17:37:28": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 9.99
+            }
+        ],
+        "2021-07-08 18:34:43": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 9.99
+            }
+        ],
+        "2021-08-26 17:05:29": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 9.99
+            }
+        ],
+        "2021-09-06 17:26:31": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 9.99
+            }
+        ],
+        "2021-10-18 17:17:59": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 9.99
+            }
+        ],
+        "2021-10-25 17:19:03": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 9.99
+            }
+        ],
+        "2021-10-28 17:39:54": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 9.99
+            }
+        ],
+        "2021-11-01 19:14:04": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 9.99
+            }
+        ],
+        "2021-11-24 18:14:32": [
+            {
+                "Final price": 7.99,
+                "Historical Low": 7.99
+            }
+        ],
+        "2021-12-01 18:21:32": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 7.99
+            }
+        ],
+        "2021-12-22 18:10:31": [
+            {
+                "Final price": 5.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2021-12-22 18:13:23": [
+            {
+                "Final price": 5.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-01-05 18:28:25": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-01-27 18:24:30": [
+            {
+                "Final price": 7.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-02-11 18:10:03": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-03-14 18:40:11": [
+            {
+                "Final price": 5.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-03-28 17:23:16": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-04-28 17:02:34": [
+            {
+                "Final price": 7.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-05-10 17:02:23": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-06-14 17:02:18": [
+            {
+                "Final price": 7.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-06-22 17:02:28": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-06-23 17:27:39": [
+            {
+                "Final price": 15.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-06-23 17:30:56": [
+            {
+                "Final price": 15.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-07-07 17:24:58": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-07-21 17:02:47": [
+            {
+                "Final price": 15.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-08-04 17:02:36": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-09-01 17:02:45": [
+            {
+                "Final price": 15.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-09-15 17:02:42": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-10-31 17:23:13": [
+            {
+                "Final price": 5.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-11-07 17:05:04": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-11-22 18:15:54": [
+            {
+                "Final price": 5.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-11-29 18:24:42": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2022-12-22 18:25:26": [
+            {
+                "Final price": 5.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2023-01-05 18:25:11": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 5.99
+            }
+        ],
+        "2023-01-19 18:02:42": [
+            {
+                "Final price": 4.79,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-02-02 18:02:46": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-04-21 17:02:36": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-05-05 17:02:31": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-06-29 17:33:00": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-07-13 17:24:56": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-07-27 17:02:55": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-08-10 17:05:07": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-09-11 17:23:08": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-09-25 17:23:11": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-10-26 17:22:46": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-11-02 17:27:54": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-11-21 18:13:35": [
+            {
+                "Final price": 7.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-11-28 18:30:34": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2023-12-21 18:11:26": [
+            {
+                "Final price": 5.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-01-04 18:31:56": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-02-06 18:02:30": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-02-20 18:02:18": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-03-14 17:44:53": [
+            {
+                "Final price": 4.79,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-03-28 17:02:38": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-04-29 17:23:10": [
+            {
+                "Final price": 4.79,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-05-13 17:23:20": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-06-27 17:53:48": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-07-11 17:30:21": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-08-05 17:23:15": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-08-19 17:23:15": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-09-19 17:02:31": [
+            {
+                "Final price": 4.79,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-09-26 17:02:26": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-10-28 17:23:11": [
+            {
+                "Final price": 9.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-11-11 17:05:03": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-11-27 18:26:25": [
+            {
+                "Final price": 4.79,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-12-04 18:30:38": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 4.79
+            }
+        ],
+        "2024-12-11 18:02:28": [
+            {
+                "Final price": 3.99,
+                "Historical Low": 3.99
+            }
+        ],
+        "2025-01-02 19:01:30": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 3.99
+            }
+        ],
+        "2025-01-27 18:21:24": [
+            {
+                "Final price": 7.99,
+                "Historical Low": 3.99
+            }
+        ],
+        "2025-02-10 18:21:21": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 3.99
+            }
+        ],
+        "2025-03-13 17:16:13": [
+            {
+                "Final price": 7.99,
+                "Historical Low": 3.99
+            }
+        ],
+        "2025-03-27 17:01:11": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 3.99
+            }
+        ],
+        "2025-05-01 17:01:13": [
+            {
+                "Final price": 7.99,
+                "Historical Low": 3.99
+            }
+        ],
+        "2025-05-15 17:01:09": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 3.99
+            }
+        ],
+        "2025-06-02 15:05:31": [
+            {
+                "Final price": 39.99,
+                "Historical Low": 3.99
+            },
+            {
+                "Final price": null,
+                "Historical Low": 3.99
+            }
+        ]
+    }
+}
