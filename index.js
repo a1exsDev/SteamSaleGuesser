@@ -1,4 +1,5 @@
 function readFile(filePath) {
+    console.log(`Reading file from: ${filePath}`);
     fetch(filePath)
         .then(response => {
             if (!response.ok) {
@@ -7,5 +8,5 @@ function readFile(filePath) {
             .then(data => console.log(data))
             .catch(error => console.error('Failed to fetch data:', error));
 }
-
+console.log('blah blah blah');
 readFile('./example.json')
